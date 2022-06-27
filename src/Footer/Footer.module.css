@@ -1,0 +1,29 @@
+.footer {
+    height: 150px;
+    background-color: #8c8c8c;
+}
+
+.footerContainer {
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.social {
+    height: 50px;
+    border: 1px solid;
+    display: flex;
+    /*flex-direction: column;*/
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    width: 250px;
+}
+
+.logo {
+    height: 30px;
+}
+
+h3 {
+    margin: 0
+}
