@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.8cdc5dd9.css",
+    "main.js": "/Portfolio/static/js/main.87154339.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/4G1A8404.jpg": "/Portfolio/static/media/4G1A8404.d6bae81c1ce2384f26c1.jpg",
+    "static/media/react_original.png": "/Portfolio/static/media/react_original.f3e6489c77d28fa05478.png",
+    "static/media/github_logo.svg": "/Portfolio/static/media/github_logo.d1bb13ce1a593d82e4c0d821dc7f1b41.svg",
+    "static/media/skype.svg": "/Portfolio/static/media/skype.7cc564c34992fdcc31a1bb05ec949916.svg",
+    "static/media/linked.svg": "/Portfolio/static/media/linked.03d46969e550ccab5a3e37df2135349d.svg",
+    "static/media/gmail-logo.svg": "/Portfolio/static/media/gmail-logo.70b5641183bf027ee9553e9159f32411.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.8cdc5dd9.css.map": "/Portfolio/static/css/main.8cdc5dd9.css.map",
+    "main.87154339.js.map": "/Portfolio/static/js/main.87154339.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cdc5dd9.css",
+    "static/js/main.87154339.js"
+  ]
+}
