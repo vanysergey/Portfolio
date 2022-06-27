@@ -1,0 +1,17 @@
+.mainBlock {
+    width: 100%;
+    background-color: #98c56c;
+}
+
+.text {
+    width: 350px;
+    background-color: rgba(255, 255, 255, 0.68);
+}
+
+.photo {
+    width: 300px;
+    height: 400px;
+    background-color: rgba(255, 255, 255, 0.68);
+    display: flex;
+    justify-content: center
+}
