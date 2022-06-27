@@ -1,0 +1,40 @@
+.projectBlock {
+    width: 400px;
+    background-color: #8af6eb;
+    border: 1px solid;
+
+}
+
+
+
+.project {
+    border: 1px solid;
+    width: 100%;
+    background-color: #8c8c8c;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.description {
+}
+
+.iconBlock {
+    height: 250px;
+    width: 100%;
+    background-color: #8c8c8c;
+    background-image: url("https://seo-expert-pakistan-85.webself.net/file/si1495046/a06ec2e6f2e0c543747c5589bf9adbab-fi27557603x975.jpg");
+    background-size: 100%;
+    border: 1px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.icon {
+    height: 250px;
+    width: 300px;
+}
