@@ -1,0 +1,18 @@
+.remoteWorkBlock {
+    background-color: #8af6eb;
+    min-height:15vh;
+
+}
+
+.remoteWorkContainer {
+
+}
+
+.remoteWork {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding:10px;
+}
